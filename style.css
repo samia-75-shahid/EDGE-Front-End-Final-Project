@@ -81,7 +81,12 @@
   .bot .text {
     background: #8c8c8e;
   }
-
+  
+  .timestamp {
+    font-size: 12px;
+    color: #888;
+    margin-left: 10px;
+}
   .input {
     position: relative;
     width: 100%;
@@ -128,4 +133,5 @@ button i{
     background: #bcbdc0;
     border-radius: 10px;
 }
+  
   
